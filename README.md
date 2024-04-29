@@ -93,5 +93,8 @@ plt.show()
 ```
 
 ### Output:
+![325855696-0d6cbc8d-e285-4589-ae3f-9a1039136be0](https://github.com/Naveenvetrivel/WDM_EXP7/assets/94165322/d835958b-226c-44d8-85b3-890bf3037699)
+
 
 ### Result:
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
